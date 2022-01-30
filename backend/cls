@@ -1,0 +1,41 @@
+[33mcommit b8218754979ba31ffdceb753707746061cf3cf51[m[33m ([m[1;36mHEAD -> [m[1;32mkavin[m[33m, [m[1;31morigin/kavin[m[33m)[m
+Author: kavin <srijanrcis@gmail.com>
+Date:   Wed Sep 29 20:47:52 2021 +0530
+
+    django superuser created
+
+[33mcommit dc5240573ef6971f96b3ad7474c8557a81574913[m
+Author: kavin <srijanrcis@gmail.com>
+Date:   Wed Sep 29 20:15:40 2021 +0530
+
+    django superuser created and registered
+
+[33mcommit 44e991f720ee69cceb5138735772f47a7a5b6f47[m
+Author: kavin <srijanrcis@gmail.com>
+Date:   Tue Sep 28 21:27:45 2021 +0530
+
+    deleted files
+
+[33mcommit 3a2ee1f07ffe4302c6a1a17ad37c8deef175e484[m[33m ([m[1;32mmain[m[33m)[m
+Author: kavin <srijanrcis@gmail.com>
+Date:   Tue Sep 28 21:16:57 2021 +0530
+
+    learining pull request
+
+[33mcommit 93793c5f67f39cd4bf7021619c6e677919a582b8[m
+Author: kavin <srijanrcis@gmail.com>
+Date:   Tue Sep 28 20:21:12 2021 +0530
+
+    django environment created
+
+[33mcommit f9d04c53be11b6ef1ed8332fe9f8297aea819f73[m
+Author: ojasva <44553464+ojasva@users.noreply.github.com>
+Date:   Sat Sep 11 11:58:27 2021 +0530
+
+    Update README.md
+
+[33mcommit b64cbc1e23b4658787d205947f8a0e0c02c72000[m
+Author: Vijay <54742586+SVijayB@users.noreply.github.com>
+Date:   Fri Jul 2 21:17:55 2021 +0530
+
+    Initial commit

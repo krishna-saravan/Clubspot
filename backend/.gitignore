@@ -1,0 +1,8 @@
+*.env
+clubs/__pycache__/
+clubs/migrations/
+students/__pycache__/
+students/migrations/
+events/__pycache__/
+events/migrations/
+clubspot/__pycache__/
